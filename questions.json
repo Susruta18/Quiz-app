@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What are Panama hats made out of?",
+    "choices": [
+      "Hemp",
+      "Straw",
+      "Flax",
+      "Silk"
+    ],
+    "answer": "Straw"
+  },
+  {
+    "question": "Which sign of the zodiac comes between Virgo and Scorpio?",
+    "choices": [
+      "Taurus",
+      "Libra",
+      "Gemini",
+      "Capricorn"
+    ],
+    "answer": "Libra"
+  },
+  {
+    "question": "How many letters are in the English alphabet?",
+    "choices": [
+      "26",
+      "30",
+      "5",
+      "17"
+    ],
+    "answer": "26"
+  },
+  {
+    "question": "The new One World Trade Center in Manhattan, New York City was designed by which architect? ",
+    "choices": [
+      "David Childs",
+      "Michael Arad",
+      "Bjarke Ingels",
+      "Fumihiko Maki"
+    ],
+    "answer": "David Childs"
+  },
+  {
+    "question": "Who invented Pastafarianism?",
+    "choices": [
+      "Bobby Henderson",
+      "Bill Nye",
+      "Zach Soldi",
+      "Eric Tignor"
+    ],
+    "answer": "Bobby Henderson"
+  },
+  {
+    "question": "Antibiotics are generally taken to combat what?",
+    "choices": [
+      "Viruses",
+      "Migraines",
+      "Bacterial infections",
+      "Muscular pains"
+    ],
+    "answer": "Bacterial infections"
+  },
+  {
+    "question": "What fast food chain has the most locations globally? ",
+    "choices": [
+      "McDonalds",
+      "Starbucks",
+      "KFC",
+      "Subway"
+    ],
+    "answer": "Subway"
+  },
+  {
+    "question": "\"Nephelococcygia\" is the practice of doing what? ",
+    "choices": [
+      "Finding shapes in clouds",
+      "Sleeping with your eyes open",
+      "Swimming in freezing water",
+      "Breaking glass with your voice"
+    ],
+    "answer": "Finding shapes in clouds"
+  },
+  {
+    "question": "According to the nursery rhyme, what fruit did Little Jack Horner pull out of his Christmas pie?",
+    "choices": [
+      "Pear",
+      "Peach",
+      "Apple",
+      "Plum"
+    ],
+    "answer": "Plum"
+  },
+  {
+    "question": "Who played General Aladeen in The Dictator?",
+    "choices": [
+      "Johnny Depp",
+      "Sacha Baron Cohen",
+      "James Franco",
+      "Leonardo Dicaprio"
+    ],
+    "answer": "Sacha Baron Cohen"
+  }
+]
